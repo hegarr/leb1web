@@ -34,7 +34,7 @@ Tugas Pertemuan 2 Lab1Web
 
 # Output
 > berikut output dari HTML di Atas
-![outputtugas.PNG](image/outputtugas.PNG)
+<img src="outputtugas.png">
 
 # Penggunaan background dan Ukuran font
 > Menggunakan Background merah dan ukuran font h1, h2, dan h3

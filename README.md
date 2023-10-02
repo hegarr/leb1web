@@ -16,16 +16,24 @@ Tugas Pertemuan 2 Lab1Web
 # HTML
 ```<!DOCTYPE html>
 <html>
+
 <head>
 <title>lab1web</title>
 </head>
 <body>
-<h1>Mohamad Hegar Sukmana Wibowo</h1>
+
+<h1>Hello i'm Mohamad Hegar Sukmana Wibowo</h1>
 <br>
 <h1>NIM 312210332</h1>
 <br>
-<p>Dengan ini saya mengerjakan Tugas pertemuan 2 Pemrograman WEB</p>
-<h1>terimakasih<h1/>
+<p>Berikut ini adalah contoh hasil tugas pertemuan 2 Pemrograman Web</p>
+<h1>Thank You<h1/>
+
+<h1>Testing Size Font<h1/>
+<h1>HAI<h1/>
+<h2>HEI<h2/>
+<h3>HOI<h3/>
+
 </body>
 </html>
 ```
@@ -34,7 +42,7 @@ Tugas Pertemuan 2 Lab1Web
 
 # Output
 > berikut output dari HTML di Atas
-<img src="outputtugas.png">
+<img src="outputtugas.PNG">
 
 # Penggunaan background dan Ukuran font
 > Menggunakan Background merah dan ukuran font h1, h2, dan h3

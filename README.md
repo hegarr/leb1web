@@ -9,7 +9,7 @@ Tugas Pertemuan 2 Lab1Web
 <br>
 
 # Tugas
-![Tugas.PNG](image/Tugas.PNG)
+<img src="Tugas.PNG">
 <hr>
 <br>
 

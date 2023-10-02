@@ -67,7 +67,7 @@ Tugas Pertemuan 2 Lab1Web
 # Output background dan font
 > Background merah dan font ukuran h1, h2, h3
 
-![bgfont.PNG](image/bgfont.PNG)
+<img src="bgfont.png">
 
 # Menggunakan fungsi format text
 > Tag Keterangan
@@ -104,7 +104,7 @@ syntax
 </html>
 ```
 # Output
-![htmlformattext.PNG](image/htmlformattext.PNG)
+<img src="htmlformattext.png">
 
 # Hyperlink
 > Menampilkan tautan yang terhubung dengan link yang di tuju
@@ -128,15 +128,15 @@ syntax
 
 > Output Sebelum di klik
 
-![hyperlink1.PNG](image/hyperlink1.PNG)
+<img src="hyperlink1.png">
 
 > Output Tujuan
 
-![hyperlink2.PNG](image/hyperlink2.PNG)
+<img src="hyperlink2.PNG">
 
 > Output Setelah di gunakan (menunjukan perbedaan warna sesudah tautan di klik)
 
-![hyperlink3](image/hyperlink3.PNG)
+<img src="hyperlink3.png">
 
 # Menampilkan Gambar
 
@@ -157,7 +157,7 @@ syntax
 # Output Picture
 > Menampilkan foto yang di pilih sesuai nama dan format
 
-![pic.PNG](image/pic.PNG)
+<img src="pic.PNG">
 
 <h1> cukup sekian dan TERIMA KASIH</h1>
 <br>

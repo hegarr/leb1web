@@ -1,7 +1,7 @@
 # Lab1web_
 Tugas Pertemuan 2 Lab1Web
 <br>
-<h1>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْم<h1/>
+<h1>Assalamu'alaikum wr.wb<h1/>
 <br>
 <h2>Mohamad Hegar Sukmana Wibowo<h2/>
 <h2>NIM 312210332<h2/>
@@ -162,7 +162,7 @@ syntax
 <h1> cukup sekian dan TERIMA KASIH</h1>
 <br>
 
-<h1>sandi bintara</h1>
+<h1>Wassalamu'alaikum wr.wb</h1>
 
 
 
